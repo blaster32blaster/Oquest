@@ -1,0 +1,6 @@
+c:\users\olaf\documents\visual studio 2013\Projects\Oquest\Oquest\bin\Debug\Oquest.exe.config
+c:\users\olaf\documents\visual studio 2013\Projects\Oquest\Oquest\bin\Debug\Oquest.exe
+c:\users\olaf\documents\visual studio 2013\Projects\Oquest\Oquest\bin\Debug\Oquest.pdb
+c:\users\olaf\documents\visual studio 2013\Projects\Oquest\Oquest\obj\Debug\Oquest.csprojResolveAssemblyReference.cache
+c:\users\olaf\documents\visual studio 2013\Projects\Oquest\Oquest\obj\Debug\Oquest.exe
+c:\users\olaf\documents\visual studio 2013\Projects\Oquest\Oquest\obj\Debug\Oquest.pdb
